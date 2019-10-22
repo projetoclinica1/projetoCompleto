@@ -15,5 +15,5 @@ O Site ganha uma nova aparência, tendo o banner alterado com informações da c
 Algumas alterações foram feitas no código, tanto em PHP, quanto em HTML. O site recebe mais informações da clínica, como contato, sobre, etc.
 
 <b>Versão 4.5: Visual novo.</b>
-O site teve seuite visual atualizado. Novas cores, fontes alteradas, temas atualizados, mais informações sendo adicionadas. 
+O site teve seu visual atualizado. Novas cores, fontes alteradas, temas atualizados, mais informações sendo adicionadas. 
 Em relação ao código PHP, houve uma alteração significativa e testes ainda estão sendo feitos. O site se encaminha para sua versão final.
